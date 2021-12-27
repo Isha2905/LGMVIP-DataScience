@@ -7,6 +7,6 @@ The dataset is taken from https://raw.githubusercontent.com/mwitiderrick/stockpr
 
 Task-2 
 
-Developing A Neural Network That Can Read Handwriting using Tensorflow and CNN
+Develop A Neural Network That Can Read Handwriting using Tensorflow and CNN
 
 The dataset is taken from MNIST (https://en.wikipedia.org/wiki/MNIST_database). This project uses neural network machine learning for the classification of MNIST Handwritten Digit by using Sequential model and various layers such as Dense, Dropout,Conv2D,Flatten, MaxPooling2D.
